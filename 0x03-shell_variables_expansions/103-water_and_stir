@@ -1,2 +1,2 @@
 #!/bin/bash
-$(((($water#$WATER))+(($srir#$STIR))))
+$(($bestchol#$(((($water#$WATER))+(($srir#$STIR))))))
